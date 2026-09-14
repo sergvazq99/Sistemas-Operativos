@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:1
+
+# CLASS URL
+ECONOMY  https://cdn.fake/hls/seg_0001.ts
+PRIORITY https://cdn.fake/hls/seg_0002.ts
+ECONOMY  https://cdn.fake/hls/seg_0003.ts
+PRIORITY https://cdn.fake/hls/seg_0004.ts
+ECONOMY  https://cdn.fake/hls/seg_0005.ts
+ECONOMY  https://cdn.fake/hls/seg_0006.ts
+PRIORITY https://cdn.fake/hls/seg_0007.ts
+ECONOMY  https://cdn.fake/hls/seg_0008.ts
+PRIORITY https://cdn.fake/hls/seg_0009.ts
+ECONOMY  https://cdn.fake/hls/seg_0010.ts
